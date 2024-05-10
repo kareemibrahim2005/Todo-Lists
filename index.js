@@ -1,6 +1,5 @@
 const express = require("express");
 const mongoose = require("mongoose");
-const Joi = require("joi");
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const { createCipheriv } = require("crypto");
